@@ -1,4 +1,4 @@
-# Node.js & Software Craftsmanship Workshop ❯ https://goo.gl/jLifK1
+# Node.js & Software Craftsmanship Workshop
 > NodeConf Barcelona
 
 <p align="center">
